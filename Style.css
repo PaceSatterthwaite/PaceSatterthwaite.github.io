@@ -27,12 +27,12 @@ H1-b {
 .box1 {
     /*    display: inline-block;*/
     /*    width: 25%;*/
-    float: left;
+    
     height: 525px;
     padding-top: 5%;
     padding-left: 20px;
     padding-right: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 500px;
     background-color: #7395AE;
     /*    float: left;*/
 }
@@ -60,8 +60,9 @@ li a {
 }
 .box2 {
     height: 525px;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 500px;
+    padding-right: 500px;
+    float: left;
     /*background-color: #557A95;*/
     /*float: left;*/
     /*display: block;*/
