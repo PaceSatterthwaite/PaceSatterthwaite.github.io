@@ -7,9 +7,8 @@ h1 {
     color: white;
 }
 H1-b {
-    background-color: mediumpurple;
-    text-decoration: underline;
-    box-shadow: black -10px 15px;
+    background-color: #557A95;
+    box-shadow: black -5px 15px;
 }
 .websitebox {
     display: inline-block;
