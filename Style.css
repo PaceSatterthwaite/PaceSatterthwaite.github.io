@@ -45,12 +45,12 @@ li a {
 }
 .box2 {
     height: 500px;
-    /*    padding: 5%;
-    background-color: #557A95;*/
-    float: left;
-/*    display: block;*/
-/*    margin-left: auto;
-    margin-right: auto;*/
+    padding: 5%;
+    /*background-color: #557A95;*/
+    /*float: left;*/
+    /*display: block;*/
+    margin-left: auto;
+    margin-right: auto;
     /*width: 50%;*/
 }
 /*.box2:hover {
