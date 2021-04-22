@@ -1,5 +1,5 @@
 ﻿body {
-    background-color: #C5C6C7;
+    background-color: #5D5C61;
 }
 h1 {
     text-align: center;
@@ -14,7 +14,7 @@ H1-b {
 .websitebox {
     display: inline-block;
     float: left;
-    width: 25%;
+    width: 15%;
 
 }
 .otherbox {
@@ -28,7 +28,7 @@ H1-b {
     height: 500px;
     padding-top: 5%;
     padding-bottom: 5%;
-    background-color: mediumpurple;
+    background-color: #557A95;
     /*    float: left;*/
 }
 li a {
@@ -37,13 +37,9 @@ li a {
     background-color: white;
     display: block;
     text-decoration: none;
-    color: mediumpurple;
-    border-radius: 20px;
+    color: #5D5C61;
+    border-radius: 5px;
     text-align: center;
-}
-.box1:hover {
-    background-color: blueviolet;
-    transform: scale(1.1);
 }
 .box2 {
     height: 500px;
