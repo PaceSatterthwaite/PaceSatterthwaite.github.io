@@ -33,6 +33,11 @@ H1-b {
     background-color: #7395AE;
     /*    float: left;*/
 }
+#About {
+    text-align: center;
+    font-size: 300%;
+    color: white;
+}
 li a {
     margin: 25px;
     padding: 20px;
@@ -45,11 +50,12 @@ li a {
 }
 .box2 {
     height: 500px;
-    padding: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
     /*background-color: #557A95;*/
     /*float: left;*/
     /*display: block;*/
-/*    margin-left: auto;
+    /*    margin-left: auto;
     margin-right: auto;*/
     /*width: 50%;*/
 }
