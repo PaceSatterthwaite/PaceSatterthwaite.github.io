@@ -7,7 +7,7 @@ h1 {
     color: white;
 }
 H1-b {
-    background-color: #557A95;
+    background-color: #7395AE;
     box-shadow: black -5px 15px;
 }
 .websitebox {
@@ -27,7 +27,7 @@ H1-b {
     height: 500px;
     padding-top: 5%;
     padding-bottom: 5%;
-    background-color: #557A95;
+    background-color: #7395AE;
     /*    float: left;*/
 }
 li a {
@@ -36,7 +36,7 @@ li a {
     background-color: white;
     display: block;
     text-decoration: none;
-    color: #5D5C61;
+    color: #7395AE;
     border-radius: 5px;
     text-align: center;
 }
@@ -77,10 +77,6 @@ li a {
     margin: 0;
     
 }
-.container {
-    background-color: rgba(0,0,0,.25);
-}
-
 img {
     display: block;
     width: 100%;
