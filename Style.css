@@ -32,7 +32,7 @@ H1-b {
     padding-top: 5%;
     padding-left: 20px;
     padding-right: 20px;
-    padding-bottom: 5%;
+    padding-bottom: 20px;
     background-color: #7395AE;
     /*    float: left;*/
 }
@@ -59,9 +59,9 @@ li a {
     text-align: center;
 }
 .box2 {
-    height: 500px;
-    padding-left: 5%;
-    padding-right: 5%;
+    height: 525px;
+    padding-left: 20px;
+    padding-right: 20px;
     /*background-color: #557A95;*/
     /*float: left;*/
     /*display: block;*/
