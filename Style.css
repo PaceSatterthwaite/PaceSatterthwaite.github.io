@@ -22,7 +22,7 @@ H1-b {
 .otherbox {
     display: inline-block;
     float: left;
-    width: 25%;
+/*    width: 25%;*/
 }
 .box1 {
     /*    display: inline-block;*/
@@ -46,22 +46,21 @@ li a {
 .box2 {
     height: 500px;
     padding: 5%;
-    background-color: pink;
+    background-color: #557A95;
     float: left;
-    
 }
-.box2:hover {
+/*.box2:hover {
     background-color: hotpink;
     transform: scale(1.1);
-}
-.box3 {
+}*/
+/*.box3 {*/
     /*width: 25%;
     display: inline-block;*/
-    height: 500px;
+    /*height: 500px;
     padding: 5%;
     background-color: mediumpurple;
-}
-.box3:hover {
+}*/
+/*.box3:hover {
     background-color: darkviolet;
     transform: scale(1.1);
 }
@@ -73,7 +72,7 @@ li a {
 .box4:hover {
     background-color: hotpink;
     transform: scale(1.1);
-}
+}*/
 .linkcolor {
     list-style-type: none;
     padding: 0;
