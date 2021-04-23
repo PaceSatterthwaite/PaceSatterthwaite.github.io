@@ -54,7 +54,7 @@ H1-b {
     background-color: gray;
     border: solid 5px black;
     box-shadow: 0 4px 80px 0 rgba(0,0,0, 0.2);
-    margin: 15px;
+    margin-left: 15px;
     display: block;
     width: 400px;
     text-align: left;
