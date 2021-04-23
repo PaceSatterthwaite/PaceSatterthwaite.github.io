@@ -61,7 +61,8 @@ H1-b {
     font-size: 150%;
     color: white;
     float: left;
-    padding: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
 }
 li a {
     margin: 25px;
